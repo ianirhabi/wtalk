@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "757047439148",
+    "firebase_url": "https://intalk-4dfe0.firebaseio.com",
+    "project_id": "intalk-4dfe0",
+    "storage_bucket": "intalk-4dfe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757047439148:android:8dfb202e57e5aabb",
+        "android_client_info": {
+          "package_name": "com.example.irhabi.wtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757047439148-pulalojqgc7kqbbdfet44uqmhvl0jm69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.irhabi.wtalk",
+            "certificate_hash": "cf376438a0c0698f2daef9368e6d0b68f8c014a5"
+          }
+        },
+        {
+          "client_id": "757047439148-ilsnhsqgebas7idh6i2mbik55da70d45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRqIkoSlnC9PfLsiHnqo6cWUJdOI7p_SQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757047439148-ilsnhsqgebas7idh6i2mbik55da70d45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
